@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\LORD\Pet_projects\numerical_and_analytical_methods\Half_division_method\main.cpp(12,16): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Half_division_method.vcxproj -> C:\LORD\Pet_projects\numerical_and_analytical_methods\Half_division_method\x64\Debug\Half_division_method.exe
