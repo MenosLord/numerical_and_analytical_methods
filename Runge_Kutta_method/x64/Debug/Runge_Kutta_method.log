@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\LORD\Pet_projects\numerical_and_analytical_methods\Runge_Kutta_method\main.cpp(29,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Runge_Kutta_method.vcxproj -> C:\LORD\Pet_projects\numerical_and_analytical_methods\Runge_Kutta_method\x64\Debug\Runge_Kutta_method.exe
